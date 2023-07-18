@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkumax_admin_github_io=self.webpackChunkumax_admin_github_io||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Umax Admin","permalink":"/blog/index"}]}')}}]);
