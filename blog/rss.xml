@@ -4,7 +4,7 @@
         <title>Umax Admin Blog</title>
         <link>https://umax-admin.github.io/blog</link>
         <description>Umax Admin Blog</description>
-        <lastBuildDate>Tue, 18 Jul 2023 15:30:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 16:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Umax Admin]]></title>
             <link>https://umax-admin.github.io/blog/index</link>
             <guid>https://umax-admin.github.io/blog/index</guid>
-            <pubDate>Tue, 18 Jul 2023 15:30:41 GMT</pubDate>
+            <pubDate>Tue, 18 Jul 2023 16:02:01 GMT</pubDate>
             <description><![CDATA[一个全新的 gin react admin  后台管理系统]]></description>
             <content:encoded><![CDATA[<blockquote><p>一个全新的 gin react admin  后台管理系统</p></blockquote>]]></content:encoded>
         </item>
